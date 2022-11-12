@@ -7,6 +7,3 @@ module.exports = {
   mongoURI: process.env.DEV_MONGO_URI,
   cookieKey: "123123123",
 };
-
-// guilherme
-// mKYLqvixfxmaE3qU
